@@ -1,9 +1,10 @@
+anthropic
+voyageai
 langchain
 langchain-community
-faiss-cpu
-voyageai
-anthropic
+faiss-cpu==1.7.4
 streamlit
 pandas
 plotly
 python-dotenv
+numpy
