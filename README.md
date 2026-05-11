@@ -259,10 +259,10 @@ VOYAGE_API_KEY=pa-your-voyage-key-here
 
 ## 👤 Author
 
-**Nishant Garg**  
+**Nishant**  
 MCA Graduate | GenAI & Data Engineering Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nishant2211)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/nishant-2211)
 
 ---
