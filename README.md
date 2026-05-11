@@ -7,6 +7,9 @@
 
 # ✈️ SmartFlow AI
 
+## 🌐 Live Demo
+👉 [SmartFlow AI — Live App](https://smartflow-ai-0105.streamlit.app)
+
 **AI-powered airline passenger intelligence — ask anything, get data-driven answers instantly.**
 
 SmartFlow AI is a production-grade RAG (Retrieval-Augmented Generation) chatbot that lets you query 103,594 airline passenger satisfaction records using plain English. Powered by Voyage AI semantic embeddings, a FAISS vector store, and Claude Sonnet, it delivers precise analytical insights alongside real-time Plotly visualizations — all wrapped in a professional dark glass UI.
